@@ -2,7 +2,7 @@
 
 ## 노이즈 추가된 입력에서 고유 모달 특징 맵을 통한 멀티모달 오디오 비주얼 질의응답 인공지능 모델의 성능 개선
 Accepted at 2023년 한국방송미디어공학회 하계 학술대회
-[paper] \link{https://drive.google.com/file/d/10RkJw4IHQW_N7uCtKu373v9e9NcFlWAt/view}
+[paper]{https://drive.google.com/file/d/10RkJw4IHQW_N7uCtKu373v9e9NcFlWAt/view}
 
 # Abstract
 
